@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/sb1-pdeyts/',
+  base: '/sb1-cp27xs/',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
